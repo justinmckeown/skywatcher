@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+#My Files
+secretstuff.py
+spacedetails.py 
+info.log 
+satelite-data.xlsx
+source-data/*
