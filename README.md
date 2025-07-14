@@ -8,6 +8,7 @@ To use **SkyWatcher** you need to go to [https://n2yo.com](https://n2yo.com) and
 
 One the key is added the  `n2yowrapper.py` provides python syntax access to the n2yo API via your API_key. 
 
+---
 
 # 📡 Methods
 |**Method**| **Params** | **Description** |
